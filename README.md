@@ -75,6 +75,7 @@ Set the schedule using a cron expression. Example for the 1st of every month at 
 cron(0 12 1 * ? *)
 
 📝 Example Output Email
+
 AWS Monthly Cost & Resource Report
 ==================================
 
